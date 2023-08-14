@@ -1,4 +1,4 @@
-module github.com/linstohu/nexapi
+module github.com/slangmens/nexapi
 
 go 1.18
 
